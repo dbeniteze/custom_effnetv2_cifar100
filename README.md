@@ -7,4 +7,7 @@ There are 50000 training images and 10000 test images.
 Accuracy reached: 65.4 %
 
 Reference:
+
 <a href="https://arxiv.org/abs/2104.00298" target="_blank">EfficientNetV2: Smaller Models and Faster Training - ICML 2021</a>
+
+<a href="https://www.cs.toronto.edu/~kriz/cifar.html" target="_blank">CIFAR100 CS Toronto</a>
