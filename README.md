@@ -4,7 +4,9 @@ CIFAR 100 classification with transfer learning from pretrained Efficientnetv2 S
 The CIFAR-100 dataset consists of 60000 32x32 colour images in 100 classes, with 600 images per class. There are 500 training images and 100 testing images per class. 
 There are 50000 training images and 10000 test images. 
 
-Accuracy reached: 66.5 %
+## Accuracy reached: 66.5 %
+
+<img src="https://github.com/dbeniteze/custom_effnetv2_cifar100_classification/blob/main/images/loss_accuracy.png" width="700">
 
 Reference:
 
